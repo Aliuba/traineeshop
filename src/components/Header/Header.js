@@ -9,11 +9,13 @@ const Header = () => {
             <header className={'row-header block '}>
                 <div>
                     <Link to={"/card"}>
-                        <button>Card</button>
+                        <h3>Card</h3>
                     </Link>
                 </div>
                 <div>
+                     <Link to={"/basket"}>
                     <h3>Basket</h3>
+                     </Link>
                 </div>
 
             </header>
