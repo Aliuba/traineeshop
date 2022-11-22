@@ -1,0 +1,13 @@
+table, th{
+  border: 1px solid black;
+  width: available;
+  border-collapse: collapse;
+
+}
+table{
+  width: 100%;
+}
+.make_order{
+  display: flex;
+  justify-content: right;
+}

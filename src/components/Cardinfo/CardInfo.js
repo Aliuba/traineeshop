@@ -2,7 +2,7 @@ import React from 'react';
 import "./cardInfo.scss"
 import {goods} from "../Card/goods";
 import {useParams} from "react-router-dom";
-import Card from "../Card/Card";
+
 
 export const CardInfo = () => {
 
